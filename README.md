@@ -18,7 +18,7 @@ This project demonstrates practical skills in data analytics, data preparation, 
 <img src="Bank Overview Dashboard.png" width="100%"><br><br>
 
 ### Page 2: Loan Performance Analysis
-<img src="Loan Performance Dashboard.png" width="100%"><br><br>
+<img src="Loan Performance Dasboard.png" width="100%"><br><br>
 
 ### Page 3: Customer & Risk Analysis
 <img src="Customer And Risk Dashboard.png" width="100%"><br><br>
