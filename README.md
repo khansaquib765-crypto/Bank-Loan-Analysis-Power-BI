@@ -368,7 +368,7 @@ I am interested in transforming raw data into meaningful insights through data a
 
 - **Email:** khansaquib765@gmail.com
 - **LinkedIn:** www.linkedin.com/in/saquib-khan-b321ab308
-- **GitHub:** khansaquib765-crypto
+- **GitHub:** https://github.com/khansaquib765-crypto
 
 
 ⭐ If you find this project useful, consider starring the repository.
